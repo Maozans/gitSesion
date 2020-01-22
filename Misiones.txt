@@ -1,0 +1,5 @@
+# Lista de misiones
+
+1.- Buscar comida
+2.- Buscar refugio
+3.- Cultivar alimentos
